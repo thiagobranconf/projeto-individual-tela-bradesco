@@ -7,7 +7,7 @@ Este projeto é um trabalho individual que consiste em replicar o layout de uma 
 A tela escolhida para o desafio foi a tela principal do **Aplicativo do Bradesco**. 
 
 ### Print da Tela Original
-![Tela Original](./tela-original.jpeg)
+<img src="./tela-original.jpeg" alt="Tela Original" width="400">
 
 ---
 
@@ -16,7 +16,7 @@ A tela escolhida para o desafio foi a tela principal do **Aplicativo do Bradesco
 Abaixo está a réplica da tela criada com base no design original.
 
 ### Print da Tela Clonada
-![Tela Clonada](./tela-clonada.jpeg)
+<img src="./tela-clonada.jpeg" alt="Tela Clonada" width="400">
 
 ---
 
